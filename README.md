@@ -49,10 +49,10 @@ source env/bin/activate  # On Windows: env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-
+```
 To run flask server - python app.py
 To run react setup - npm run dev
-
+```
 
 Made with ❤️ by Shalini Mishra
 
