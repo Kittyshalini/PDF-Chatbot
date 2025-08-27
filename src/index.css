@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+/* body{
+    background-image: url('https://coolbackgrounds.imgix.net/39sOStld2OCyNn3HmCpqco/21d339122a7cb417c83e6ebdc347ea5c/sea-edge-79ab30e2.png?w=3840&q=60&auto=format,compress');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: screen;
+} */
+#root{
+    padding: 0 !important;
+    margin: 0 !important;
+}
